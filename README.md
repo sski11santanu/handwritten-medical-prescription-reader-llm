@@ -5,5 +5,5 @@ A vision language model-powered GUI application to read medical handwritten pres
 * If a local LLM like Gemini 3 4B is to be used as the corrector LLM, have LMStudio installed locally and download the corresponding model
 
 ## Demo:
-![Demo video](https://github.com/sski11santanu/handwritten-medical-prescription-reader-llm/blob/main/Handwritten%20Medical%20Prescription%20Reader%20Demo.mp4)
+https://github.com/user-attachments/assets/62055ec4-c58e-47dd-81a5-fe1564c20950
 
